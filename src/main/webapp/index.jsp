@@ -9,7 +9,7 @@
 <body>
  <h1 style="text-align:center; color:green"> Online Reservation System </h1>
 <hr>
-<a href = "">Home</a>
-<a href = "">Login</a>
+<a href = "#">Home</a>
+<a href = "LoginServlet">Login</a>
 </body>
 </html>
