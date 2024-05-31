@@ -4,12 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Home</title>
+<title>Insert title here</title>
 </head>
 <body>
- <h1 style="text-align:center; color:green"> Online Reservation System </h1>
-<hr>
-<a href = "">Home</a>
-<a href = "">Login</a>
+
 </body>
 </html>
